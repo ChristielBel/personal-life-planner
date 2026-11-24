@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<SmellBaseline>
+  <ManuallySuppressedIssues/>
+  <CurrentIssues>
+    <ID>CyclomaticComplexMethod:HomeScreen.kt$@Composable private fun HomeContent( state: HomeState, onEvent: (HomeEvent) -&gt; Unit, modifier: Modifier = Modifier )</ID>
+    <ID>ForEachOnRange:HomeScreen.kt$0..6</ID>
+    <ID>MagicNumber:HomeScreen.kt$6</ID>
+    <ID>MultiLineIfElse:HomeViewModel.kt$HomeViewModel$habit</ID>
+    <ID>MultiLineIfElse:HomeViewModel.kt$HomeViewModel$task</ID>
+    <ID>NoEmptyFirstLineInMethodBlock:HomeScreen.kt$ </ID>
+    <ID>PackageName:HomeEvent.kt$package com.example.feature_home</ID>
+    <ID>PackageName:HomeScreen.kt$package com.example.feature_home</ID>
+    <ID>PackageName:HomeState.kt$package com.example.feature_home</ID>
+    <ID>PackageName:HomeViewModel.kt$package com.example.feature_home</ID>
+    <ID>PackageNaming:HomeEvent.kt$package com.example.feature_home</ID>
+    <ID>PackageNaming:HomeScreen.kt$package com.example.feature_home</ID>
+    <ID>PackageNaming:HomeState.kt$package com.example.feature_home</ID>
+    <ID>PackageNaming:HomeViewModel.kt$package com.example.feature_home</ID>
+    <ID>StringTemplate:HomeScreen.kt$${completedTasks}</ID>
+    <ID>UnusedPrivateMember:HomeScreen.kt$@Preview(showBackground = true, showSystemUi = true) @Composable private fun HomeScreenPreview()</ID>
+  </CurrentIssues>
+</SmellBaseline>

@@ -106,7 +106,6 @@ private fun HomeContent(
             ),
         verticalArrangement = Arrangement.spacedBy(Spacing.xl)
     ) {
-
         // 1. Шапка
 
         HeaderSection(
@@ -141,7 +140,7 @@ private fun HomeContent(
                     )
 
                     Text(
-                        text = "${completedTasks}/${state.tasks.size}",
+                        text = "$completedTasks/${state.tasks.size}",
                         color = MaterialTheme.colorScheme.primary,
                         fontWeight = FontWeight.Bold
                     )

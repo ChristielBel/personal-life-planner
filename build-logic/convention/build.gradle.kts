@@ -10,3 +10,7 @@ gradlePlugin {
         }
     }
 }
+
+dependencies {
+    implementation(libs.detekt.gradle.plugin)
+}

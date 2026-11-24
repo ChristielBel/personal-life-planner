@@ -57,7 +57,9 @@ class HomeViewModel : ViewModel() {
                                 task.copy(
                                     isCompleted = !task.isCompleted
                                 )
-                            } else task
+                            } else {
+                                task
+                            }
                         }
                     )
                 }
@@ -71,7 +73,9 @@ class HomeViewModel : ViewModel() {
                                 habit.copy(
                                     isCompleted = !habit.isCompleted
                                 )
-                            } else habit
+                            } else {
+                                habit
+                            }
                         }
                     )
                 }
