@@ -1,4 +1,6 @@
 pluginManagement {
+    includeBuild("build-logic")
+
     repositories {
         google {
             content {
@@ -21,4 +23,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "personal-life-planner"
 include(":app")
- 
+include(":feature-home")
+include(":core-design")
