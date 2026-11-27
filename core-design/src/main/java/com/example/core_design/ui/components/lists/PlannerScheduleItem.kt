@@ -19,6 +19,37 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import com.example.core_design.ui.theme.Spacing
 
+/**
+ * Элемент расписания с временем, названием и описанием события.
+ *
+ * Отображает время события, цветной вертикальный индикатор
+ * и текстовую информацию о событии.
+ *
+ * Используется для представления отдельных событий в расписании,
+ * например встреч, занятий или запланированных дел.
+ *
+ * Пример использования:
+ * ```
+ * PlannerScheduleItem(
+ *     time = "09:00",
+ *     title = "Английский",
+ *     subtitle = "Обучение · 45 минут",
+ *     accent = LightSage
+ * )
+ *
+ * PlannerScheduleItem(
+ *     time = "14:00",
+ *     title = "Рабочая встреча",
+ *     subtitle = "Обсуждение планов",
+ *     accent = SoftOrange
+ * )
+ * ```
+ *
+ * @param time время начала события.
+ * @param title название события.
+ * @param subtitle дополнительное описание события.
+ * @param accent цвет вертикального индикатора события.
+ */
 @Composable
 fun PlannerScheduleItem(
     time: String,
