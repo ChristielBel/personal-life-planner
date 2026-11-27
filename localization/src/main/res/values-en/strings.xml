@@ -1,0 +1,63 @@
+<resources>
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_add">Add</string>
+    <string name="action_add_event">+ Add event</string>
+
+    <string name="home_greeting">Good afternoon!</string>
+    <string name="home_subtitle">Let\'s make today productive</string>
+    <string name="home_priorities">My priorities</string>
+    <string name="home_no_tasks">No tasks yet</string>
+
+    <string name="home_main_today">Highlights Today</string>
+    <string name="home_main_today_subtitle">Three important tasks for today</string>
+
+    <string name="home_schedule">Schedule</string>
+    <string name="home_schedule_subtitle">Your plans and events for today</string>
+    <string name="home_no_events">No events scheduled for today</string>
+
+    <string name="home_habits">My Habits</string>
+    <string name="home_habits_subtitle">Small steps every day</string>
+    <string name="home_habits_progress">Daily Progress</string>
+    <string name="home_no_habits">No habits yet</string>
+
+    <string name="home_goals">My Goals</string>
+    <string name="home_goals_subtitle">Don\'t forget what you strive for</string>
+    <string name="home_no_active_goal">No active goal set yet</string>
+    <string name="home_goal_progress">%1$d%%</string>
+    <string name="home_next_step">Next step: %1$s</string>
+
+    <string name="home_finances">Finances</string>
+    <string name="home_finances_subtitle">Quick budget overview</string>
+    <string name="home_budget_balance">Remaining budget</string>
+    <string name="home_budget_not_set">Not set</string>
+    <string name="home_budget_amount">%1$s €</string>
+    <string name="home_currency_euro">€</string>
+    <string name="home_demo_data">Demo data</string>
+
+    <string name="home_thought_of_the_day">Thought of the Day</string>
+    <string name="home_thought_of_the_day_subtitle">A place for your ideas and notes</string>
+    <string name="home_note_title">✎ My Note</string>
+    <string name="home_note_placeholder">Write down your thoughts...</string>
+
+    <string name="home_quick_add">Quick Add</string>
+    <string name="home_quick_add_subtitle">Add important things in one click</string>
+    <string name="home_quick_add_task">Task</string>
+    <string name="home_quick_add_event">Event</string>
+    <string name="home_quick_add_note">Note</string>
+    <string name="home_quick_add_expense">Expense</string>
+
+    <string name="home_tasks_progress">%1$d/%2$d</string>
+    <string name="home_task_completed">Done</string>
+
+    <string name="task_new">New task</string>
+    <string name="task_edit">Edit task</string>
+    <string name="task_title">Task title</string>
+    <string name="task_date">Due date</string>
+    <string name="task_description">Write down what needs to be done.</string>
+    <string name="task_delete_title">Delete task?</string>
+    <string name="task_delete_message">The task “%1$s” will be permanently deleted.</string>
+    <string name="task_delete_cancel">Keep</string>
+</resources>

@@ -1,0 +1,63 @@
+<resources>
+    <string name="action_save">Сохранить</string>
+    <string name="action_cancel">Отмена</string>
+    <string name="action_delete">Удалить</string>
+    <string name="action_edit">Редактировать</string>
+    <string name="action_add">Добавить</string>
+    <string name="action_add_event">+ Добавить событие</string>
+
+    <string name="home_greeting">Добрый день!</string>
+    <string name="home_subtitle">Давай сделаем этот день продуктивным</string>
+    <string name="home_priorities">Мои приоритеты</string>
+    <string name="home_no_tasks">Пока нет задач</string>
+
+    <string name="home_main_today">Главное сегодня</string>
+    <string name="home_main_today_subtitle">Три важных дела на сегодняшний день</string>
+
+    <string name="home_schedule">Расписание</string>
+    <string name="home_schedule_subtitle">Твои планы и события на сегодня</string>
+    <string name="home_no_events">На сегодня событий нет</string>
+
+    <string name="home_habits">Мои привычки</string>
+    <string name="home_habits_subtitle">Маленькие шаги каждый день</string>
+    <string name="home_habits_progress">Ежедневный прогресс</string>
+    <string name="home_no_habits">Пока нет привычек</string>
+
+    <string name="home_goals">Мои цели</string>
+    <string name="home_goals_subtitle">Не забывай о том, к чему стремишься</string>
+    <string name="home_no_active_goal">Активная цель пока не задана</string>
+    <string name="home_goal_progress">%1$d%%</string>
+    <string name="home_next_step">Следующий шаг: %1$s</string>
+
+    <string name="home_finances">Финансы</string>
+    <string name="home_finances_subtitle">Краткий обзор бюджета</string>
+    <string name="home_budget_balance">Остаток бюджета</string>
+    <string name="home_budget_not_set">Не задан</string>
+    <string name="home_budget_amount">%1$s €</string>
+    <string name="home_currency_euro">€</string>
+    <string name="home_demo_data">Демонстрационные данные</string>
+
+    <string name="home_thought_of_the_day">Мысль дня</string>
+    <string name="home_thought_of_the_day_subtitle">Место для твоих идей и записей</string>
+    <string name="home_note_title">✎ Моя заметка</string>
+    <string name="home_note_placeholder">Запиши свою мысль...</string>
+
+    <string name="home_quick_add">Быстрое добавление</string>
+    <string name="home_quick_add_subtitle">Записывай важное в один клик</string>
+    <string name="home_quick_add_task">Задача</string>
+    <string name="home_quick_add_event">Событие</string>
+    <string name="home_quick_add_note">Заметка</string>
+    <string name="home_quick_add_expense">Расход</string>
+
+    <string name="home_tasks_progress">%1$d/%2$d</string>
+    <string name="home_task_completed">Готово</string>
+
+    <string name="task_new">Новая задача</string>
+    <string name="task_edit">Редактировать задачу</string>
+    <string name="task_title">Название задачи</string>
+    <string name="task_date">Дата выполнения</string>
+    <string name="task_description">Запиши то, что важно сделать.</string>
+    <string name="task_delete_title">Удалить задачу?</string>
+    <string name="task_delete_message">Задача «%1$s» будет удалена без возможности восстановления.</string>
+    <string name="task_delete_cancel">Оставить</string>
+</resources>
